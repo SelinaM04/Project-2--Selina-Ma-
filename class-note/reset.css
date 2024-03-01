@@ -1,0 +1,23 @@
+h1{ 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bookshelf{
+    display: flex;
+}
+
+.book-item{ 
+    display: flex;
+    margin: 0 15px;
+   
+}
+
+.book-item:hover .text-content{
+    opacity: 1;
+    
+}
+
+.text-content{ 
+    opacity: 0;
+
+}
