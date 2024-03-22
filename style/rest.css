@@ -7,7 +7,7 @@ body {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    height: calc(100vh - 40px); 
+    height: auto;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -15,19 +15,15 @@ body {
     flex: 1;
     position: relative;
     overflow: hidden;
-    width: 30%; 
-    height: 0; 
-    padding-top: 56.25%; 
-    margin: 0 auto;
+    width: 50%;  /* Setting the video container to half the width of the overall container*/
+    height: 100%;
+
 }
 .video-container video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); 
     width: 100%;
     height: 100%;
-    object-fit: cover; 
+    object-fit: contain;  /*This fits the video inside the container as big as it can be without overflowing*/
+
 }
 .invisible-border {
     width: 2px; 
