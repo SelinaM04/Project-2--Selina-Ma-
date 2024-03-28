@@ -1,0 +1,53 @@
+[
+    {
+        "itemType": "Bacon",
+        "storeName": "Target",
+        "price": 4.49,
+        "brand": "Market Pantry Thick cut",
+        "calories": "1 slice 70",
+        "protein": "Pork",
+        "dietaryInformation": "Not specified",
+        "weight": "16.07oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Target",
+        "price": 4.49,
+        "brand": "Market Pantry center cut",
+        "calories": "1 slice 50",
+        "protein": "Pork",
+        "dietaryInformation": "Not specified",
+        "weight": "12oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Target ",
+        "price": 4.49,
+        "brand": "Market Pantry classic cut",
+        "calories": "1 slice 90",
+        "protein": "Pork",
+        "dietaryInformation": "Not specified",
+        "weight": "16oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Target",
+        "price": 9.99,
+        "brand": "Oscar Mayer Thick Cut",
+        "calories": "1 slice 80",
+        "protein": "Pork",
+        "dietaryInformation": "Gluten-Free",
+        "weight": "16oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Target",
+        "price": 5.99,
+        "brand": "Oscar Mayer Center Cut",
+        "calories": "2 slice 60",
+        "protein": "Pork",
+        "dietaryInformation": "Gluten-Free",
+        "weight": "12oz"
+    }
+
+]

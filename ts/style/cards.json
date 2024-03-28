@@ -1,0 +1,72 @@
+[
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 4.89,
+        "brand": "Good&Gather Apple&Gouda Cheese",
+        "calories": "1 link(85g)140",
+        "protein": "Chicken",
+        "dietaryInformation": "No nitrates or nitrites, no antibiotics",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 4.89,
+        "brand": "Good&Gather Italian-Style",
+        "calories": "1 link(85g)130",
+        "protein": "Chicken",
+        "dietaryInformation": "No nitrates or nitrites, no antibiotics",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 4.89,
+        "brand": "Good&Gather Jalapeno&Cheddar Cheese",
+        "calories": "1 link(85g)150",
+        "protein": "Chicken",
+        "dietaryInformation": "No nitrates or nitrites, no antibiotics",
+        "weight": "12oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 5.49,
+        "brand": "Johnsonville Beef brats",
+        "calories": "1 link(57g)180",
+        "protein": "Beef",
+        "dietaryInformation": "may contain traces of soy and wheat",
+        "weight": "12oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 5.49,
+        "brand": "Johnsonville Jalapeno Cheddar",
+        "protein": "Pork",
+        "dietaryInformation": "may contain traces of soy and wheat",
+        "weight": "14oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 5.49,
+        "brand": "Hillshire Farm",
+        "calories": "5 links(60g)200",
+        "protein": "Beef",
+        "dietaryInformation": "Gluten-Free",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Target",
+        "price": 5.49,
+        "brand": "Hillshire Farm Turkey Smoked Sauages",
+        "calories": "2 oz(56g)100",
+        "protein": "Turkey",
+        "dietaryInformation": "Low-fat, Gluten-free",
+        "weight": "13 oz"
+    }
+
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "itemType": "Bacon",
+        "storeName": "Whole Foods",
+        "price": 8.99,
+        "brand": "My Bacon",
+        "calories": "2 cooked slices  - 60",
+        "protein": "Mushroom",
+        "dietaryInformation": "Animal-free  Gluten-free dairy-free soy-free",
+        "weight": "6 oz "
+    }
+
+]

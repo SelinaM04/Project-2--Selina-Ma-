@@ -1,0 +1,32 @@
+[
+    {
+        "itemType": "Bacon",
+        "storeName": "Trader Joe's",
+        "price": 4.99,
+        "brand": "Dry Rubbed Uncured bacon",
+        "calories": "1 pan fried 60",
+        "protein": "Pork",
+        "dietaryInformation": "Not specified",
+        "weight": "8 oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Trader Joe's",
+        "price": 5.99,
+        "brand": "Dry Rubbed Uncured sliced bacon",
+        "calories": "1 pan fried 30",
+        "protein": "Pork",
+        "dietaryInformation": "not specified",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Bacon",
+        "storeName": "Trader Joe's",
+        "price": 6.99,
+        "brand": "Black Forest Bacon",
+        "calories": "1 pan fried 80",
+        "protein": "Pork",
+        "dietaryInformation": "not specified",
+        "weight": "12 oz"
+    }
+]

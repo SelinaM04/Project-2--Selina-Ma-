@@ -1,0 +1,43 @@
+[
+    {
+        "itemType": "Sausage",
+        "storeName": "Whole Foods",
+        "price": 6.39,
+        "brand": "Field Roast Classic smoked",
+        "calories": "1 link(76g) - 190",
+        "protein": "Plant based",
+        "dietaryInformation": "Vegan, Non-GMO, Soy-Fre",
+        "weight": "12.95 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Whole Foods",
+        "price": 7.99,
+        "brand": "Field Roast Classic Italian Garlic&Fennel",
+        "calories": "1 sausage(92g) - 230",
+        "protein": "Plant based",
+        "dietaryInformation": "Vegan, Non-GMO, Soy-Fre",
+        "weight": "12.95 oz"
+    },
+    {
+        "itemType": "Sauage",
+        "storeName": "Whole Foods",
+        "price": 7.99,
+        "brand": "Field Roast Classic Smocked Apple&Sage",
+        "calories": "1 sausage(92g)-240",
+        "protein": "Plant based",
+        "dietaryInformation": "Vegan, Non-GMO, Soy-Fre",
+        "weight": "12.95 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Whole Foods",
+        "price": 8.29,
+        "brand": "Field Roast Signature Stadium Dog",
+        "calories": "1 link(47g)-110",
+        "protein": "Plant based",
+        "dietaryInformation": "Vegan, Non-GMO, Soy-Fre",
+        "weight": "10 oz"
+    }
+
+]
