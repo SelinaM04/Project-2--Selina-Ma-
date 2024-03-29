@@ -1,0 +1,53 @@
+[
+    {
+        "itemType": "Sausage",
+        "storeName": "Trader Joe's",
+        "price": 4.29,
+        "brand": "Spicy Italian",
+        "calories": "1 link 140",
+        "protein": "Chicken",
+        "dietaryInformation": "No Msg, Gluten Free",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Trader Joe's",
+        "price": 4.29,
+        "brand": "Sweet Italian Style",
+        "calories": "1 link 110",
+        "protein": "Chicken",
+        "dietaryInformation": "Pork Free, Gluten Free",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Trader Joe's",
+        "price": 4.29,
+        "brand": "Roasted Garlic",
+        "calories": "1 link 110",
+        "protein": "Chicken",
+        "dietaryInformation": "Pork Free, Gluten Free",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage ",
+        "storeName": "Trader Joe's",
+        "price": 4.29,
+        "brand": "Sweet Apple",
+        "calories": "1 link 120",
+        "protein": "Chicken",
+        "dietaryInformation": "Pork Free, Gluten Free",
+        "weight": "12 oz"
+    },
+    {
+        "itemType": "Sausage",
+        "storeName": "Trader Joe's",
+        "price": 4.29,
+        "brand": "Spicy Jalapeno",
+        "calories": "1 link 100",
+        "protein": "Chicken",
+        "dietaryInformation": "Pork Free, Gluten Free",
+        "weight": "12 oz"
+    }
+
+]
