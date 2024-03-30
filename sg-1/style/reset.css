@@ -13,7 +13,6 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../img/s2.jpeg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -59,6 +58,20 @@ h1 {
 
 .tile h2 {
     margin: 0; 
+}
+
+#video-link-container {
+  position: absolute;
+  top: 0;
+  right: 3%;
+  width: 10%; 
+  height: auto;
+  z-index: 100; 
+}
+
+#video-link-container video {
+  width: 100%;
+  height: auto;
 }
 
 #btn {
