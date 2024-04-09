@@ -125,4 +125,36 @@ h1 {
     border-radius: 0;
     border-bottom: 2px solid #e22626;
   }
+
+  @media (max-width: 768px) {
+    .flip-card {
+        width: calc(100% - 40px); 
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .flip-card {
+        width: calc(50% - 40px);
+    }
+  }
+
+  @media (max-width: 600px) {
+    #btn {
+        height: 60vh; 
+        width: 15vh; 
+        top: 300vh; 
+        left: 5vh; 
+        font-size: 16px; 
+    }
+  }
+  @media (min-width: 601px) and (max-width: 1024px) {
+    #btn {
+        height: 80vh; 
+        width: 8vh; 
+        top: 85vh; 
+        left: 7vh; 
+        font-size: 18px; 
+    }
+  
+  }
   

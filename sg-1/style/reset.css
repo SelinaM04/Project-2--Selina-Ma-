@@ -75,53 +75,53 @@ h1 {
 }
 
 #btn {
-    height: 90vh;
-    width: 10vh;
-    top: 90vh;
-    left:8vh;
-    border: none;
-    border-radius: 10px;
-    color: rgb(0, 0, 0);
-    font-size: 20px;
-    position: absolute;
-    transition: 1s;
-    -webkit-tap-highlight-color: transparent;
-    display: flex;
-    cursor: pointer;
-    padding-top: 5px;
+  height: 90vh;
+  width: 10vh;
+  top: 90vh;
+  left:8vh;
+  border: none;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  position: absolute;
+  transition: 1s;
+  -webkit-tap-highlight-color: transparent;
+  display: flex;
+  cursor: pointer;
+  padding-top: 5px;
+}
+
+#btn #circle {
+  width: 5px;
+  height: 5px;
+  background: transparent;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  overflow: hidden;
+  transition: 500ms;
+}
+
+
+@media (max-width: 600px) {
+  #btn {
+      height: 60vh; 
+      width: 15vh; 
+      top: 110vh; 
+      left: 5vh; 
+      font-size: 16px; 
   }
-  
-  #btn #circle {
-    width: 5px;
-    height: 5px;
-    background: transparent;
-    border-radius: 50%;
-    position: absolute;
-    top: 0;
-    left: 50%;
-    overflow: hidden;
-    transition: 500ms;
+}
+@media (min-width: 601px) and (max-width: 1024px) {
+  #btn {
+      height: 80vh; 
+      width: 8vh; 
+      top: 85vh; 
+      left: 7vh; 
+      font-size: 18px; 
   }
-  
-  .noselect {
-    -webkit-touch-callout: none;
-      -webkit-user-select: none;
-       -khtml-user-select: none;
-         -moz-user-select: none;
-          -ms-user-select: none;
-              user-select: none;
-  }
-  
-  #btn:hover {
-    background: transparent;
-  }
-  
-  #btn:hover #circle {
-    height: 5vh;
-    width: 9vh;
-    top: 0;
-    left: 0;
-    border-radius: 0;
-    border-bottom: 2px solid #e22626;
-  }
-  
+
+}
+
+

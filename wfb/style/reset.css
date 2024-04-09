@@ -125,4 +125,18 @@ h1 {
     border-radius: 0;
     border-bottom: 2px solid #e22626;
   }
+
+
+@media (max-width: 768px) {
+  .flip-card {
+      width: calc(100% - 40px); 
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .flip-card {
+      width: calc(50% - 40px);
+  }
+}
+
   
